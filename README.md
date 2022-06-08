@@ -1,5 +1,5 @@
 # SA-RulesetToEditorConfig
-Convert StyleCop.Analyzers ruleset file to .editorconfig
+Convert StyleCopAnalyzers ruleset file to .editorconfig
 
 # Usage
 
